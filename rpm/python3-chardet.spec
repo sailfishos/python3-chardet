@@ -32,8 +32,8 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/chardet
-%{python3_sitearch}/chardet-*.egg-info
+%{python3_sitelib}/chardet
+%{python3_sitelib}/chardet-*.egg-info
 
 %files -n chardetect
 %defattr(-,root,root,-)
