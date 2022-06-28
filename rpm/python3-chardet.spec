@@ -3,7 +3,7 @@ Summary:    The Universal Character Encoding Detector
 Version:    3.0.4
 Release:    1
 License:    LGPLv2+
-URL:        https://pypi.org/project/chardet/
+URL:        https://github.com/sailfishos/python3-chardet
 BuildArch:  noarch
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   python3-base
